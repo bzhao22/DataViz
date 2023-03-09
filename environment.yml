@@ -9,3 +9,7 @@ dependencies:
 - ipywidgets
 - sympy
 - pandas
+- bqplot
+- param
+- seaborn
+- panel
